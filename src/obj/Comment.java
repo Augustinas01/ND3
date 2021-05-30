@@ -17,10 +17,6 @@ public class Comment {
         return text;
     }
     //endregion
-    public Comment() {
-
-    }
-
     public Comment(int id) {
         this.id = id;
         this.rating = r.nextInt(1,5);

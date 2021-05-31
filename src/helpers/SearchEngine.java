@@ -1,4 +1,7 @@
-package obj;
+package helpers;
+
+import model.Actor;
+import model.Movie;
 
 import java.util.ArrayList;
 import java.util.Scanner;

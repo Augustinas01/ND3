@@ -1,7 +1,5 @@
-package model;
-
-import obj.Movie;
-import obj.SearchEngine;
+import model.Movie;
+import helpers.SearchEngine;
 
 import java.util.ArrayList;
 

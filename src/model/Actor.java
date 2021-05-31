@@ -1,4 +1,4 @@
-package obj;
+package model;
 
 import enm.ActorNames;
 import enm.ActorSurNames;

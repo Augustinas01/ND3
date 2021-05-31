@@ -6,8 +6,7 @@ import java.util.ArrayList;
 
 
 
-
-public class Main {
+public class App {
 
     private static final SearchEngine se = new SearchEngine();
 
